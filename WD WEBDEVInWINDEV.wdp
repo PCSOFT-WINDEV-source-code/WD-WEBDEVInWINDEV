@@ -1,0 +1,106 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD WEBDEVInWINDEV
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Windows 64-bit executable
+    internal_properties : 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
+    configuration_id : 2516311493207427034
+    type : 1
+    generation_name : WD WEBDEVInWINDEV.exe
+    version :
+     major_version : 28
+     minor_version : 51
+     internal_generation_version : 4
+     autoincrement_version : false
+    icon_filename : .\car.ico
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x437b550300a98881
+  elements :
+   -
+     name : WIN_Main
+     identifier : 0x43510d160047b929
+     internal_properties : CAAAAAgAAACvqQUB0u8vwEBQS9EzdoFUE5VullkNa934El5ayJrrUz3d/1RZyPmAOoJdGgXlUrmq
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : WIN_VehicleDetails
+     identifier : 0x435112fb0106c290
+     internal_properties : CAAAAAgAAAAKAHIWldJaBc2RBKUENJ/DKFt3Pw+pMZ2Ou3Kgh5zwINRqJhzlHF+DrpUP6akn08UPFw==
+     physical_name : .\WIN_VehicleDetails.wdw
+     type : 2
+   -
+     name : WINTPL_DEFAULT
+     identifier : 0x43513bee006ab557
+     internal_properties : CAAAAAgAAACrpQENzvvjmez2pj1ZhK/q1VMguRKnO2FasJjCdy5bJ32ZMzx98t5RgUaRLhHpVr2u
+     physical_name : .\WINTPL_DEFAULT.wdt
+     type : 18
+   -
+     name : SET_Interface_Site
+     identifier : 0x43529cd600964ef8
+     internal_properties : CAAAAAgAAAC0kpyYJxwUFyO0tgyBckcHMF0PR2F0+XZ2Aea2CumrZZOftan4wBa6kLchn2eZYVehoQ==
+     physical_name : .\SET_Interface_Site.wdg
+     type : 7
+   -
+     name : WIN_CustomerManagement
+     identifier : 0x4356cf2f00a3f1c6
+     internal_properties : CAAAAAgAAABp5VG1ci+HqLZ7MHxKCCmQAyZCGrLprfF26X4RQfIg6AQ4jNXfGTb900q0DJRMNKRs9A==
+     physical_name : .\WIN_CustomerManagement.wdw
+     type : 2
+   -
+     name : WIN_Billing
+     identifier : 0x4356d5e300911f12
+     internal_properties : CAAAAAgAAAAtKQUZppObRBIXwrSqHgN8fx5G3voptB5Czs7Pa4gKNs5mqnUd4+AZP+bQKOgY4NA4OA==
+     physical_name : .\WIN_Billing.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wb_style_sheet : .\WDCarService.wws
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAACFrR7BDozxNsTNhTJihLwut4BNpIWnY12a1EKDaAIImhd+EehimCqYNPgLqozf1FgM9n0wjSWsZ1gkzlEcUaNAbrk/vumpDg==
+  type_code : 0
+  p_codes :
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Windows 64-bit executable
+     identifier : 0x43510cd9002cce1d
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WDCarService
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
